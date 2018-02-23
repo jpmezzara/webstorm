@@ -8,4 +8,5 @@ these are the tasks needed for your technical exam:
 - Develop a new web site similar to www.vanjupe.mx
   - Your site does NOT have to be exactly the same as vanjupe.mx. The important thing is to create something with similar layout and behavior. We know you have limited time for this task.
 - Use Bootstrap as css framework
+- Use Javascript to show a welcome message as an alert once the page is loaded.
 - Commit your work to this repository
